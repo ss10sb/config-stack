@@ -5,4 +5,5 @@ export declare class ConfigStack<T extends Config> extends cdk.Stack {
     constructor(app: cdk.App, id: string, stackProps: cdk.StackProps, config: T);
     get isProd(): boolean;
     mixNameWithId(name: string): string;
+    init(): void;
 }

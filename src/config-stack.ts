@@ -9,6 +9,7 @@ export class ConfigStack<T extends Config> extends cdk.Stack {
         super(app, id, stackProps);
 
         this.config = config;
+        this.init();
     }
 
     get isProd(): boolean {
@@ -17,5 +18,9 @@ export class ConfigStack<T extends Config> extends cdk.Stack {
 
     mixNameWithId(name: string): string {
         return `${this.node.id}-${name}`;
+    }
+
+    init(): void {
+        // do stuff here
     }
 }

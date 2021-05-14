@@ -702,8 +702,8 @@
         "affectsGlobalScope": false
       },
       "../../src/config-stack.ts": {
-        "version": "39f4b689e00af7369cf588b0467b4113a45367f181b796990c9be523ece208c8",
-        "signature": "799c31a7a80848d7af150aa866d541e7c67c39f70c2517f5e3eebb7d87b5f1d6",
+        "version": "e0cbb5cc86ef2ac78fd0e8f2c8933c94de64f2e790764055a453ce8aad17e152",
+        "signature": "f3aa64abc8e57b3c6e2082c261a71f9508ac3f7e714d833aa8c170e5077c3bda",
         "affectsGlobalScope": false
       },
       "../../src/index.ts": {

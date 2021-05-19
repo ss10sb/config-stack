@@ -372,8 +372,8 @@
         "affectsGlobalScope": false
       },
       "../../node_modules/@aws-cdk/core/lib/assets.d.ts": {
-        "version": "bfd98380c604fb26bdc516f9c28a22a0cb77409057ec943493b0aac51206a880",
-        "signature": "bfd98380c604fb26bdc516f9c28a22a0cb77409057ec943493b0aac51206a880",
+        "version": "db179b6ebe7449955d1adc24ba9256019c8d60f8c9aa6541e4e3fe41842cea6d",
+        "signature": "db179b6ebe7449955d1adc24ba9256019c8d60f8c9aa6541e4e3fe41842cea6d",
         "affectsGlobalScope": false
       },
       "../../node_modules/@aws-cdk/core/lib/environment.d.ts": {
@@ -687,13 +687,13 @@
         "affectsGlobalScope": false
       },
       "../../node_modules/@smorken/config-loader/lib/types/config.d.ts": {
-        "version": "5da3136ca9b5ea4a9f39d1b6d3e08f6f6ddb055e1cf1f891d37f6d8d201a1a3b",
-        "signature": "5da3136ca9b5ea4a9f39d1b6d3e08f6f6ddb055e1cf1f891d37f6d8d201a1a3b",
+        "version": "c3e6063635cf00ac804a044bd7d97e675da55e5647e98f5b00f990d9e45f7b6a",
+        "signature": "c3e6063635cf00ac804a044bd7d97e675da55e5647e98f5b00f990d9e45f7b6a",
         "affectsGlobalScope": false
       },
       "../../node_modules/@smorken/config-loader/lib/types/config-loader.d.ts": {
-        "version": "4e5b1f7db55c6ef2ad86a26c74003b8afa0db01839cb82bfe76999e21e151b96",
-        "signature": "4e5b1f7db55c6ef2ad86a26c74003b8afa0db01839cb82bfe76999e21e151b96",
+        "version": "c7e767003585cbb5a27a50b35b9c3c241ec787d351a643380e1dcb6d24eef630",
+        "signature": "c7e767003585cbb5a27a50b35b9c3c241ec787d351a643380e1dcb6d24eef630",
         "affectsGlobalScope": false
       },
       "../../node_modules/@smorken/config-loader/lib/types/index.d.ts": {
